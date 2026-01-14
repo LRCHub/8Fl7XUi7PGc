@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スーサイドリベンジ",
+  "base_artist": "DeXeultio",
+  "createdAt": "2026-01-14T01:11:13.488747Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーサイドリベンジ",
+      "artist": "DeXeultio",
+      "has_synced": false,
+      "path": "select/pl_01_スーサイドリベンジ_DeXeultio.txt"
+    }
+  ]
+}
